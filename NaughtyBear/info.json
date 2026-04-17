@@ -2,8 +2,7 @@
   "name": "Naughty Bear",
   "github_repo": "",
   "available_platforms": [
-    "Windows",
-    "Linux"
+    "Windows"
   ],
   "release_packets_names": [],
   "description": "Naughty Bear (2010) is an action game where you play as Naughty Bear, a teddy bear who terrorizes the other bears on Perfection Island. Recompiled for PC using the rexglue-sdk with Xenia renderer support."
