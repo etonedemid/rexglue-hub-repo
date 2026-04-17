@@ -1,0 +1,13 @@
+{
+  "name": "Viva Pinata: Trouble in Paradise",
+  "github_repo": "https://github.com/SolarCookies/TiP-Recomp",
+  "available_platforms": [
+    "Windows",
+    "Linux"
+  ],
+  "release_packets_names": [
+    "TiP-Recomp-windows-x86_64.zip",
+    "TiP-Recomp-Linux-x86_64.AppImage"
+  ],
+  "description": "Viva Pinata: Trouble in Paradise recompiled and enhanced. Features unlimited garden space, RGB cursor, unlocked FPS, better camera controls, and graphics settings. Originally developed by Rare, recompiled by SolarCookies and Franksy32."
+}

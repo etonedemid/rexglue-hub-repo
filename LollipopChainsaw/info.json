@@ -1,0 +1,10 @@
+{
+  "name": "Lollipop Chainsaw",
+  "github_repo": "",
+  "available_platforms": [
+    "Windows",
+    "Linux"
+  ],
+  "release_packets_names": [],
+  "description": "Lollipop Chainsaw (2012) is a hack-and-slash game by Grasshopper Manufacture. Play as cheerleader Juliet Starling fighting zombies at her high school. Recompiled for PC using the rexglue-sdk with Xenia renderer support."
+}
